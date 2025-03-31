@@ -14,7 +14,7 @@ The project design has 3 sections:<br/>
 ## Step-By-Step Implementation of Each section
 ### Hero Section  
 ```diff
-+(to be continued)
--services section
--footer section
++ (to be continued)
+- services section
+- footer section
 ```
